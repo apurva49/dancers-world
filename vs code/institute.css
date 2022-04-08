@@ -1,0 +1,24 @@
+body{
+        background-image: url("images/background.webp");
+        font-family: 'Times New Roman', Times, serif;
+}
+header{
+    color: white;
+    padding-top: 5px;;
+    background-color: black;
+    height: 80px;
+    text-align: center;
+}
+ol{
+    padding-top:40px;
+    padding-left: 25%;
+    padding-right: 30%;
+}
+h2{
+    color: red;
+    font-size: 35px;
+}
+li{
+    font-size: 25px;
+    
+}

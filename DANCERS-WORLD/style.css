@@ -1,0 +1,37 @@
+a{
+    font-size:larger;
+}
+
+
+h1 {
+   color:white;
+   font-size:50px;
+   font-style: italic;
+   text-align:center;
+}
+img  {
+    height:400px;
+    width:300px;
+    margin-left:100px;
+    margin-right:100px;
+    border:2px solid black;
+    }
+h2{
+    height:30px;
+}
+
+h3{
+    height:30px;
+}
+
+h4{
+    height:30px;
+}
+
+h5{
+    height:30px;
+}
+
+h6{
+    height:30px;
+}

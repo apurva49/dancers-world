@@ -1,0 +1,63 @@
+body{
+    background-image: url(img/n3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+.quote{
+    color:rgb(187, 95, 34);
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+    background-color: rgb(155, 148, 148);
+    border: 1px solid rgb(99, 98, 95);
+    border-radius: 10px;
+}
+.container{
+    color: white;
+}
+#main h3{
+  padding: 15px;
+}
+.block1 img{
+    height: 170px;
+    width: 170px;
+    margin-right: 15px;
+    float: left;
+}
+.block2 img{
+    height: 170px;
+    width: 170px;
+    margin-right: 15px;
+    float: left;
+    clear: right; 
+    
+}
+.block3 img{
+    height: 170px;
+    width: 170px;
+    margin-left: 15px;
+    float: right; 
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .zoom {
+    padding: 10px;
+    transition: transform .2s;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  
+
+
+

@@ -1,0 +1,29 @@
+body{
+    background-image: url("images/background.webp");
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+color: white;
+padding-top: 5px;;
+background-color: black;
+height: 80px;
+text-align: center;
+}
+ol{
+padding-top:40px;
+padding-left: 10%;
+padding-right: 20%;
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+h2{
+color: red;
+font-size: 35px;
+}
+li{
+font-size: 25px;
+
+}
+
